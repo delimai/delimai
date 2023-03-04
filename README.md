@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @delimai
-- 👀 I’m interested in Data Science for educational and career purposes
-- 🌱 I’m currently learning Python and SQL
-- 😁 I’m looking to collaborate on data projects
-- 📫 To reach me, you guys can hit me up on:
+Hey there, I'm Isaac👋🏼
+Data analyst with a passion for Python and SQL, skilled in leveraging data visualization techniques to uncover insights and drive informed decisions. Ready to tackle challenging projects and contribute to impactful data-driven solutions. Let's connect and make data work for us!
+
+
 Linkedin: https://www.linkedin.com/in/isaac-de-lima-197a9117b/
 email: isaacdelimaf@gmail.com
 
